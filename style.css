@@ -108,6 +108,17 @@ footer{
 
 /* end-footer */
 
+/* start service section */
+.font-icon{
+    color: #9BB439;
+    font-size: 50px;
+    margin-right: 20px;
+}
+.service-section{
+    background: #F1F1F1;
+}
+/* end service section */
+
 /* start media queries */
 
 @media (max-width:576px){
